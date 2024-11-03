@@ -12,7 +12,7 @@ This repository hosts various games compatible with the Arcade Machine platform.
 
 ### Prerequisite: SplashKit SDK
 
-To run the games in this repository, you’ll need to install the SplashKit SDK. Follow the [SplashKit Installation Guide](http://www.splashkit.io/articles/installation/) for instructions on setting up SplashKit on your system.
+To run the games in this repository, you’ll need to install the SplashKit SDK. Follow the [SplashKit Installation Guide](https://splashkit.io/installation/) for instructions on setting up SplashKit on your system.
 
 ## Featured Games
 
