@@ -2,11 +2,12 @@
     <img width="150px" src="https://github.com/thoth-tech/.github/blob/main/images/splashkit.png"/>
 </p>
 
-![GitHub contributors](https://img.shields.io/github/contributors/thoth-tech/arcade-games?label=Contributors&color=F5A623)
-![GitHub issues](https://img.shields.io/github/issues/thoth-tech/arcade-games?label=Issues&color=F5A623)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/thoth-tech/arcade-games?label=Pull%20Requests&color=F5A623)
-![Forks](https://img.shields.io/github/forks/thoth-tech/arcade-games?label=Forks&color=F5A623)
-![Stars](https://img.shields.io/github/stars/thoth-tech/arcade-games?label=Stars&color=F5A623)
+[![GitHub contributors](https://img.shields.io/github/contributors/thoth-tech/arcade-games?label=Contributors&color=F5A623)](https://github.com/thoth-tech/arcade-games/graphs/contributors)
+[![GitHub issues](https://img.shields.io/github/issues/thoth-tech/arcade-games?label=Issues&color=F5A623)](https://github.com/thoth-tech/arcade-games/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/thoth-tech/arcade-games?label=Pull%20Requests&color=F5A623)](https://github.com/thoth-tech/arcade-games/pulls)
+[![Forks](https://img.shields.io/github/forks/thoth-tech/arcade-games?label=Forks&color=F5A623)](https://github.com/thoth-tech/arcade-games/network/members)
+[![Stars](https://img.shields.io/github/stars/thoth-tech/arcade-games?label=Stars&color=F5A623)](https://github.com/thoth-tech/arcade-games/stargazers)
+
 
 # Arcade Games
 
